@@ -1,10 +1,10 @@
 
 function johnLennonFacts() {
-  
+
 }
 
 function theBeatlesPlay() {
-  
+
 }
 
 function forLoop(array) {
@@ -15,7 +15,7 @@ function forLoop(array) {
   const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function johnLennonFacts() {
-  
+
 }
 const facts = [
   "He was the last Beatle to learn to drive",
@@ -32,7 +32,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
    return beatles;
  }
- 
+
 function johnLennonFacts(array) {
    var newArray = [];
    while (array.length) {
@@ -40,7 +40,7 @@ function johnLennonFacts(array) {
    }
   return newArray;
  }
- 
+
  function iLoveTheBeatles(n) {
    var array = [];
    do {
